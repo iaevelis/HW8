@@ -1,0 +1,4 @@
+1) In the void loops, change the value of delay from 1000 to 1500.
+2) It needs resistors to avoid damaging LEDs from the current.
+3) It is useful because it provides a working surface to sort out the wires and make them work.
+4) The function for the digital (PWM) from number 1-13. What does the GND do
